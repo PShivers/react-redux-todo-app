@@ -13,7 +13,7 @@ Feel free to explore the code examples, run them on your local machine, and expe
 ## Resources
 
 - Tutorial link: [Redux for Beginners: The Brain-Friendly Guide to Redux](https://www.freecodecamp.org/news/redux-for-beginners-the-brain-friendly-guide-to-redux/)
-- Starter Code link: [Redux for Beginners: The Brain-Friendly Guide to Redux](https://github.com/chrisblakely01/react-redux-todo-app.git)
+- Starter Code link: [chrisblakely01/react-redux-todo-app](https://github.com/chrisblakely01/react-redux-todo-app.git)
 - Redux documentation: [Redux Official Documentation](https://redux.js.org/)
 - React Redux documentation: [React Redux Official Documentation](https://react-redux.js.org/)
 
