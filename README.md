@@ -1,39 +1,18 @@
-# React redux todo app
+# Redux Tutorial: Following "Redux for Beginners: The Brain-Friendly Guide to Redux"
 
-Source code for React redux todo app YouTube tutorial. Includes
+This repository contains my code examples and exercises as I follow along with the tutorial "Redux for Beginners: The Brain-Friendly Guide to Redux" from freeCodeCamp. The tutorial is designed to provide a beginner-friendly introduction to Redux, a popular state management library for JavaScript applications.
 
-- Finished source code
-- Starter code
-- An API
+Please note that the code and project in this repository are not my original work. They are solely intended for my personal learning purposes and to follow along with the tutorial. All credit for the tutorial and its content goes to the original author.
 
-## Running the finished code
+If you're interested in learning Redux or want to understand the basics of Redux in a friendly manner, I highly recommend checking out the tutorial. You can find the tutorial at the following link:
 
-Clone the repo and run the following:
+[Redux for Beginners: The Brain-Friendly Guide to Redux](https://www.freecodecamp.org/news/redux-for-beginners-the-brain-friendly-guide-to-redux/)
 
-- cd final
-- npm install
-- npm start
+Feel free to explore the code examples, run them on your local machine, and experiment with the concepts explained in the tutorial. Enjoy your learning journey with Redux!
 
-**NOTE:** The API must be running in order for the finished code to work as intended. Seee "Running the API" below
+## Resources
 
-## Running the starter code
+- Tutorial link: [Redux for Beginners: The Brain-Friendly Guide to Redux](https://www.freecodecamp.org/news/redux-for-beginners-the-brain-friendly-guide-to-redux/)
+- Redux documentation: [Redux Official Documentation](https://redux.js.org/)
+- React Redux documentation: [React Redux Official Documentation](https://react-redux.js.org/)
 
-The starter code is located in its own folder. To get it:
-
-- cd starter
-- npm install
-- npm start
-
-## Running the API
-
-The API is a dead basic node.js/express server. Clone the repo and run the following:
-
-- cd api
-- npm install
-- npm run server
-- check its running by going to browser/postman
-
-```
-localhost:7000/todos
-
-```
