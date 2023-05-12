@@ -1,7 +1,7 @@
 # Redux Tutorial: Following "Redux for Beginners: The Brain-Friendly Guide to Redux"
 
-### ** Note: I had and issue with openSSL. I solved it thanks to [this](https://stackoverflow.com/questions/74726224/opensslerrorstack-error03000086digital-envelope-routinesinitialization-e) thread. <br />
-### The command `$env:NODE_OPTIONS = "--openssl-legacy-provider"` worked for me. **
+### Note: I had and issue with openSSL. I solved it thanks to [this](https://stackoverflow.com/questions/74726224/opensslerrorstack-error03000086digital-envelope-routinesinitialization-e) thread. <br />
+### The command `$env:NODE_OPTIONS = "--openssl-legacy-provider"` worked for me.
 
 ***
 
